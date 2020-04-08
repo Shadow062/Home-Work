@@ -1,0 +1,2 @@
+var money;
+var time;
